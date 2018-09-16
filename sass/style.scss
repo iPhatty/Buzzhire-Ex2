@@ -1,0 +1,17 @@
+@import '_variables';
+@import '_daySlots';
+@import '_app';
+
+html {
+  font-family: $fontFamily;
+}
+
+body {
+  background-color: #ecf0f1;
+  margin: 0;
+}
+
+.wrapper {
+  height: 95%;
+  padding: 0 3%;
+}
